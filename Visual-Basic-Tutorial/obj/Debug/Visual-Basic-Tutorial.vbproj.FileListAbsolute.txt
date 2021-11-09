@@ -1,0 +1,13 @@
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\bin\Debug\Visual-Basic-Tutorial.exe.config
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\bin\Debug\Visual-Basic-Tutorial.exe
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\bin\Debug\Visual-Basic-Tutorial.pdb
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\bin\Debug\Visual-Basic-Tutorial.xml
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.vbprojAssemblyReference.cache
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual_Basic_Tutorial.Form1.resources
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual_Basic_Tutorial.Resources.resources
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.vbproj.GenerateResource.cache
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.exe
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.xml
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.pdb
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual_Basic_Tutorial.Form2.resources

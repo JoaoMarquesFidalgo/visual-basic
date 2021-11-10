@@ -11,3 +11,4 @@ C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug
 C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.xml
 C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual-Basic-Tutorial.pdb
 C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual_Basic_Tutorial.Form2.resources
+C:\Users\joaf\source\repos\Visual-Basic-Tutorial\Visual-Basic-Tutorial\obj\Debug\Visual_Basic_Tutorial.Form3.resources
